@@ -85,7 +85,7 @@
 <!--examples-->
 ```yaml
 name: Crypto Metrics
-uses: lowlighter/metrics@latest
+uses: CryptoDragonLady/metrics@latest
 with:
   filename: metrics.plugin.crypto.svg
   token: NOT_NEEDED
